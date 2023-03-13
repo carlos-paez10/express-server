@@ -3,5 +3,24 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "stripe": "^11.12.0"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlos-paez10/express-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlos-paez10/express-server/issues"
+  },
+  "homepage": "https://github.com/carlos-paez10/express-server#readme",
+  "description": ""
 }
